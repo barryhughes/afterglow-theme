@@ -19,7 +19,7 @@ The easiest way to install _the official/original version_ is by using [Sublime 
 Of course, this fork exists because we don't want the original, so, follow these steps instead:
 
 * Locate your Sublime Text `Packages directory` by using the menu item `Preferences -> Browse Packages...`.
-* Then, clone the repository using this command: `git clone https://github.com/barryhughes/afterglow-theme/ "Theme - Afterglow"
+* Then, clone the repository using this command: `git clone https://github.com/barryhughes/afterglow-theme/ "Theme - Afterglow"`
 
 Activate this theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User`.
 
