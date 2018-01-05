@@ -4,40 +4,17 @@ Afterglow is a minimal dark Theme for Sublime Text 2 and 3. Also it is a syntax 
 
 **Special thanks** to Max Riveiro [@kavu](https://github.com/kavu) for add a lot of icons for sidebar to this repository.
 
+This repository is [a fork of YabataDesign/afterglow-theme](https://github.com/YabataDesign/afterglow-theme) with a few modifications. It isn't necessarily in sync or up-to-date with the original. If you're just getting started with Afterglow, I recommend you go there first!
+
 ## Design & Colors
 
-#### Afterglow default
-
-![Afterglow](Screenshots/Afterglow-default.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-default.png)
-
-#### Afterglow blue
-
-![Afterglow blue](Screenshots/Afterglow-blue.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-blue.png)
-
-#### Afterglow magenta
+The theme comes in various hues ... here is magenta:
 
 ![Afterglow magenta](Screenshots/Afterglow-magenta.png)
 
 [View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-magenta.png)
 
-#### Afterglow orange
-
-![Afterglow orange](Screenshots/Afterglow-orange.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-orange.png)
-
-#### Afterglow green
-
-![Afterglow green](Screenshots/Afterglow-green.png)
-
-[View a larger screenshot](https://raw.githubusercontent.com/YabataDesign/afterglow-theme/master/Screenshots/Afterglow-green.png)
-
-*The font used in the screenshots is [__Inconsolata -g__](http://leonardo-m.livejournal.com/77079.html).*
-
+Refer to the README.md in the original repo for more information on these.
 
 ## Installation
 
